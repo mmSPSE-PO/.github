@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is group of projects that I did, while I was studying at my High School.
+
 <!--
 
 **Here are some ideas to get you started:**
